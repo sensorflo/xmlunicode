@@ -7,6 +7,7 @@
 ;; Author: Norman Walsh <ndw@nwalsh.com>
 ;; Maintainer: Norman Walsh <ndw@nwalsh.com>
 ;; Contributor: Mark A. Hershberger <mah@everybody.org>
+;; URL: https://github.com/ndw/xmlunicode.git
 ;; Created: 2004-07-21
 ;; Version: 1.11
 ;; Keywords: utf-8 unicode xml characters
@@ -28,7 +29,7 @@
 ;; Free Software Foundation, Inc., 59 Temple Place - Suite 330,
 ;; Boston, MA 02111-1307, USA.
 
-;;; Commentary
+;;; Commentary:
 
 ;; This file provides a suite of functions designed to make it easier
 ;; to enter Unicode into Emacs. It is not, in fact, particularly XML-specific though

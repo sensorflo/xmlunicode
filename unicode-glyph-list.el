@@ -1,3 +1,37 @@
+;; unicode-glyph-list --- unicode-glyph-list -*- coding: utf-8 -*-
+
+;; Copyright (C) 2003 Norman Walsh
+
+;; Author: Norman Walsh <ndw@nwalsh.com>
+;; Maintainer: Norman Walsh <ndw@nwalsh.com>
+;; URL: https://github.com/ndw/xmlunicode.git
+;; Created: 2004-07-21
+;; Version: 1.11
+;; Keywords: utf-8 unicode xml characters
+
+;; This file is NOT part of GNU emacs.
+
+;; This is free software; you can redistribute it and/or modify
+;; it under the terms of the GNU General Public License as published by
+;; the Free Software Foundation; either version 2, or (at your option)
+;; any later version.
+
+;; This software is distributed in the hope that it will be useful,
+;; but WITHOUT ANY WARRANTY; without even the implied warranty of
+;; MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+;; GNU General Public License for more details.
+
+;; You should have received a copy of the GNU General Public License
+;; along with GNU Emacs; see the file COPYING.  If not, write to the
+;; Free Software Foundation, Inc., 59 Temple Place - Suite 330,
+;; Boston, MA 02111-1307, USA.
+
+;;; Commentary:
+
+;; See xmlunicode.el
+
+;;; Code:
+
 (setq unicode-glyph-list
   '(#x0020 ; SPACE
     #x0021 ; EXCLAMATION MARK
